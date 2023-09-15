@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <link rel="stylesheet" href="aircraftstylepage.css">
+    </head>
+    <body>
+        <header id="first">
+            <h1 id="firsttext">Wartime Aircraft</h1>
+        </header>
+    </body>
+    <div id="a">
+        <h3><a href="secondgen.html">First Gen</a></h3>
+    </div>
+    <div id="b">
+        <h3><a href="secondgen.html">Second Gen</a></h3>
+    </div>
+    <div id="c">
+        <h3><a href="secondgen.html">Third Gen</a></h3>
+    </div>
+    <div id="d">
+        <h3><a href="secondgen.html">Fourth Gen</a></h3>
+    </div>
+    <div id="e">
+        <h3><a href="secondgen.html">Fifth Gen</a></h3>
+    </div>
+</html>
