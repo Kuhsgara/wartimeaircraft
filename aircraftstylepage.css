@@ -1,0 +1,58 @@
+#first {
+    background-image: url(airshow.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+#firsttext {
+    text-align: center;
+    font-size: 90px;
+    font-weight: bolder;
+    color: rgb(148, 194, 255);
+    background-color: rgba(0,0,0,0.5);
+    line-height: 400px;
+}
+
+#a{
+    float: left;
+    width: 20%;
+    background-image: url(firstgen.png);
+    background-position-y:42%;
+}
+#b{
+    float: left;
+    width: 20%;
+    background-image: url(secondgen.jpg);
+    background-position-y:45%;
+    background-position-x: 20%;
+}
+#c{
+    float: left;
+    width: 20%;
+    background-image: url(thirdgen.jpg);
+    background-position-y: 50%;
+    background-position-y:50%;
+    background-size:100%;
+}
+#d{
+    float: left;
+    width: 20%;
+    background-image: url(fourthgen.jpg);
+    background-size:cover;
+    background-position-y: 42%;
+}
+#e{
+    float: left;
+    width: 20%;
+    background-image: url(fifthgen.jpg);
+    background-size: 100%;
+    background-position-y: 35%;
+}
+h3 a{
+    color: rgb(221, 7, 0);
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+}
